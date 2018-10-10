@@ -1,5 +1,6 @@
 #include "HCSR04.h"
 
+//看看怎么改 0.0
 HCSR04::HCSR04(unsigned int nTriggerPin, unsigned int nEchoPin){
     m_nTriggerPin = nTriggerPin;
     m_nEchoPin = nEchoPin;
